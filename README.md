@@ -2,7 +2,7 @@
 
 **Desarrollador Web**  
 
-![Foto de Perfil](https://via.placeholder.com/150)
+![Foto de Perfil](https://img.freepik.com/foto-gratis/reflejo-luces-montana-lago-capturado-parco-ciani-lugano-suiza_181624-24209.jpg?w=996&t=st=1726535343~exp=1726535943~hmac=85b9ee2c9c053e1083961b31272315a4fc4439d76f4d8f1c92d597e69cb7f507)
 
 ---
 
@@ -36,13 +36,26 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
-**Soft Skills:**
+---
 
-- 💡 Pensamiento crítico
-- 🧠 Resiliencia
-- 🤝 Trabajo en equipo
-- 🎯 Liderazgo
-- 🎨 Adaptación
+## Especializaciones
+
+**Stack de Desarrollo y Tecnologías:**
+
+| Tecnología      | Icono                                                                                           |
+|-----------------|------------------------------------------------------------------------------------------------|
+| **Linux**       | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) |
+| **Node.js**     | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) |
+| **React**       | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) |
+| **Vue.js**      | ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) |
+| **PHP**         | ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **HTML**        | ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **Laravel**     | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
+| **CSS**         | ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **PostgreSQL**  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **SQL Server**  | ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
+| **Python**      | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+| **Scrum**       | ![Scrum](https://img.shields.io/badge/Scrum-%230095D5.svg?style=for-the-badge&logo=scrum&logoColor=white) |
 
 ---
 
@@ -65,10 +78,19 @@
 
 ---
 
-## Certificaciones  
-📜 **CCNAv7**: Switching, Routing, and Wireless Essentials  
-🔐 **Introducción a la Ciberseguridad**  
-🛡️ **Hacking Ético y Ciberseguridad para Principiantes**  
+## Certificaciones
+
+- 🔐 **Introducción a la Ciberseguridad**
+- 🛡️ **Curso de Hacking Ético y Ciberseguridad para Principiantes**
+- 🤖 **ChatGPT para Hacking Ético**
+- 🐉 **Curso gratuito de Kali Linux, Iniciación al Hacking Ético**
+- 🌐 **CCNAv7**: Switching, Routing, and Wireless Essentials
+- 🔌 **CCNAv7**: Introduction to Networks
+- 💻 **Fundamentos de Python 1**
+- 🌍 **IoT Fundamentals: Connecting Things**
+- 🖥️ **Curso de HTML**
+- 🖥️ **Curso de PHP**
+- 📡 **Introducción al Internet de las Cosas (IoT)**
 
 ---
 
