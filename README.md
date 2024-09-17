@@ -3,7 +3,7 @@
 **Desarrollador Web**
 
 <p align="center">
-  <img src="Colorful Collage Best Friends Slam Book Fun Presentation (1).png" height="300px" alt="Foto de perfil">
+  <img src="Colorful Collage Best Friends Slam Book Fun Presentation (1).png" height="250px" alt="Foto de perfil">
 </p>
 
 ---
