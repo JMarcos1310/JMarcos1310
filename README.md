@@ -11,7 +11,7 @@
 ## Contacto  
 📞 **Teléfono**: 7201353744  
 ✉️ **Email**: remigiojuanmarcos@gmail.com  
-🔗 **LinkedIn**: [Juan Marcos Remigio](https://linkedin.com/in/juan-marcos-remigio)  
+🔗 **LinkedIn**: [Juan Marcos Remigio](https://www.linkedin.com/in/juan-marcos-remigio-aa65b5301/)  
 🐙 **GitHub**: [JMarcos1310](https://github.com/JMarcos1310)  
 
 ---
