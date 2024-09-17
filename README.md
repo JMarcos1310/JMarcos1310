@@ -3,7 +3,7 @@
 **Desarrollador Web**
 
 <p align="center" style="background-color:black;">
-  <img src="https://avatars.githubusercontent.com/u/136421801?v=4" width="150px" alt="Foto de perfil">
+  <img src="https://www.canva.com/design/DAF0ZRJF4sQ/qaURxz9QVe4ip_JoQnuWPw/view?utm_content=DAF0ZRJF4sQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="150px" alt="Foto de perfil">
 </p>
 
 ---
