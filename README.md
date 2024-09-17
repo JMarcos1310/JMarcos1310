@@ -2,8 +2,8 @@
 
 **Desarrollador Web**
 
-<p align="center" style="background-color:black;">
-  <img src="[https://www.canva.com/design/DAF0ZRJF4sQ/qaURxz9QVe4ip_JoQnuWPw/view?utm_content=DAF0ZRJF4sQ&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF0ZRJF4sQ/qaURxz9QVe4ip_JoQnuWPw/view?utm_content=DAF0ZRJF4sQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer)" width="150px" alt="Foto de perfil">
+<p align="center">
+  <img src="https://www.canva.com/design/DAF0ZRJF4sQ/qaURxz9QVe4ip_JoQnuWPw/view?utm_content=DAF0ZRJF4sQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer" width="150px" alt="Foto de perfil">
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 📞 Contacto  
 
 - **Teléfono**: 7201353744  
-- **Email**: remigiojuanmarcos@gmail.com  
+- **Email**: [remigiojuanmarcos@gmail.com](mailto:remigiojuanmarcos@gmail.com)  
 - **LinkedIn**: [Juan Marcos Remigio](https://linkedin.com/in/juan-marcos-remigio)  
 - **GitHub**: [JMarcos1310](https://github.com/JMarcos1310)  
 
@@ -37,19 +37,19 @@
 
 ## 📚 Especializaciones
 
-<p align="center" style="background-color:black;">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Scrum-%230095D5.svg?style=for-the-badge&logo=scrum&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Scrum-%230095D5.svg?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
 </p>
 
 ---
