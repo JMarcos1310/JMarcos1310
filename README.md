@@ -3,7 +3,7 @@
 **Desarrollador Web**
 
 <p align="center">
-  <img src="https://img.freepik.com/foto-gratis/reflejo-luces-montana-lago-capturado-parco-ciani-lugano-suiza_181624-24209.jpg?w=996&t=st=1726535343~exp=1726535943~hmac=85b9ee2c9c053e1083961b31272315a4fc4439d76f4d8f1c92d597e69cb7f507" width="150px" alt="Foto de perfil">
+  <img src="https://avatars.githubusercontent.com/u/136421801?v=4" width="150px" alt="Foto de perfil">
 </p>
 
 ---
