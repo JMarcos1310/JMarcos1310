@@ -2,7 +2,7 @@
 
 **Desarrollador Web**
 
-<p align="center">
+<p align="center" style="background-color:black;">
   <img src="https://avatars.githubusercontent.com/u/136421801?v=4" width="150px" alt="Foto de perfil">
 </p>
 
@@ -25,25 +25,19 @@
 
 ## 🛠️ Habilidades
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+- Pensamiento crítico
+- Resiliencia
+- Capacidad de Análisis
+- Liderazgo
+- Trabajo en equipo
+- Toma de decisiones
+- Adaptación
 
 ---
 
 ## 📚 Especializaciones
 
-<p align="center">
+<p align="center" style="background-color:black;">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
