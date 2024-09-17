@@ -1,8 +1,10 @@
 # Juan Marcos Remigio Victoriano
 
-**Desarrollador Web**  
+**Desarrollador Web**
 
-![Foto de Perfil](https://img.freepik.com/foto-gratis/reflejo-luces-montana-lago-capturado-parco-ciani-lugano-suiza_181624-24209.jpg?w=996&t=st=1726535343~exp=1726535943~hmac=85b9ee2c9c053e1083961b31272315a4fc4439d76f4d8f1c92d597e69cb7f507)
+<p align="center">
+  <img src="https://img.freepik.com/foto-gratis/reflejo-luces-montana-lago-capturado-parco-ciani-lugano-suiza_181624-24209.jpg?w=996&t=st=1726535343~exp=1726535943~hmac=85b9ee2c9c053e1083961b31272315a4fc4439d76f4d8f1c92d597e69cb7f507" alt="Foto de Perfil" width="200" height="200">
+</p>
 
 ---
 
@@ -24,17 +26,19 @@
 
 **Lenguajes y Tecnologías:**
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
 
@@ -111,3 +115,9 @@
 ## Conectemos:
 - 💼 [LinkedIn](https://linkedin.com/in/juan-marcos-remigio)
 - 🐙 [GitHub](https://github.com/JMarcos1310)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollador-Web-%231DA1F2?style=for-the-badge" alt="Desarrollador Web">
+</p>
