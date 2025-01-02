@@ -19,7 +19,7 @@
 
 ## 💻 Perfil Profesional
 
-🚀 Desarrollador apasionado por la tecnología web con experiencia en la implementación de soluciones innovadoras. Mi enfoque está en optimizar procesos y mejorar la eficiencia mediante aplicaciones de alto rendimiento. Busco seguir creciendo en el mundo de la informática, aportando mis habilidades en proyectos desafiantes.
+🚀 Desarrollador apasionado por la tecnología web, especializado en implementar soluciones innovadoras para optimizar procesos y mejorar la eficiencia mediante aplicaciones de alto rendimiento. Comprometido con el aprendizaje continuo y la superación de retos en el ámbito de la informática, aporto habilidades sólidas en proyectos desafiantes.
 
 ---
 
@@ -98,7 +98,7 @@
 
 ## 🚀 Proyectos
 
-- **[Gestión de Inventario Escolar](#)**: Sistema web para la gestión de inventarios en una escuela primaria.
+- **[Gestión de Inventario Escolar](#)**: Sistema web para la gestión de inventarios en una institucion educativa.
 - **[Aplicación de Control de Asistencia](#)**: Aplicación para automatizar el control de asistencia de empleados.
 
 ---
