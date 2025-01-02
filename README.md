@@ -98,8 +98,8 @@
 
 ## 🚀 Proyectos
 
-- **[Gestión de Inventario Escolar](#)**: Sistema web para la gestión de inventarios en una institucion educativa.
-- **[Aplicación de Control de Asistencia](#)**: Aplicación para automatizar el control de asistencia de empleados.
+- **[Gestión de Biblioteca Escolar](https://github.com/JMarcos1310/ProyectoBiblioteca)**: Desarrollé un sistema integral de gestión para bibliotecas, diseñado para optimizar procesos como el manejo de autores, editoriales, estudiantes, libros, materias y préstamos. Este sistema centraliza la información, automatiza tareas clave y mejora la eficiencia en la administración de recursos bibliotecarios..
+- **[Aplicación de Control de Restaurante](https://github.com/JMarcos1310/restaurant)**: Este proyecto es un sistema web para la gestión de restaurantes, diseñado para optimizar diferentes aspectos operativos y funcionales del negocio.
 
 ---
 
