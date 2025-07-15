@@ -23,15 +23,26 @@
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Tecnologias
 
-- Pensamiento crítico
-- Resiliencia
-- Capacidad de Análisis
-- Liderazgo
-- Trabajo en equipo
-- Toma de decisiones
-- Adaptación
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Diseño%20Web-007ACC?style=for-the-badge&logo=figma&logoColor=white" alt="Diseño Web">
+  <img src="https://img.shields.io/badge/Mantenimiento%20Web-555555?style=for-the-badge&logo=code&logoColor=white" alt="Mantenimiento Web">
+</p>
+
 
 ---
 
