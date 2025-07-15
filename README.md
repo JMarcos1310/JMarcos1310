@@ -86,20 +86,6 @@
 - Optimicé bases de datos con Directus, mejorando estructura y funcionalidad mediante normalización y corrección de campos, asegurando precisión y disponibilidad de información estratégica.  
 - Programé e implementé módulos web clave para proyectos de alto impacto, logrando entregas puntuales y productos de alta calidad.
 
-### Desarrollador Web - Like per Second SAS de CV  
-**Feb 2024 - Presente**  
-
-- Implementé microaplicaciones con Power Apps, mejorando la eficiencia operativa en un 25%.  
-- Diseñé y maqueté interfaces alineadas con los estándares de la industria.  
-- Gestioné y optimicé bases de datos mediante Directus.  
-- Desarrollé módulos personalizados para proyectos clave.
-
-### Soporte Técnico y Docente - Escuela Primaria Niños Héroes  
-**Jun 2023 - Ene 2024**  
-
-- Mantenimiento preventivo y correctivo de equipos de cómputo.  
-- Implementación de mejoras en la infraestructura de red.  
-- Capacitación de alumnos en conceptos básicos de informática.
 
 ---
 
@@ -123,15 +109,6 @@
 
 **Licenciatura en Informática**  
 *Universidad Mexiquense del Bicentenario (2019 - 2024)*
-
----
-
-## 🚀 Proyectos
-
-- **[Gestión de Biblioteca Escolar](https://github.com/JMarcos1310/ProyectoBiblioteca)**: Desarrollé un sistema integral de gestión para bibliotecas, diseñado para optimizar procesos como el manejo de autores, editoriales, estudiantes, libros, materias y préstamos. Este sistema centraliza la información, automatiza tareas clave y mejora la eficiencia en la administración de recursos bibliotecarios.  
-- **[Aplicación de Control de Restaurante](https://github.com/JMarcos1310/restaurant)**: Este proyecto es un sistema web para la gestión de restaurantes, diseñado para optimizar diferentes aspectos operativos y funcionales del negocio.
--  **[Convertidor-de-Excel-a-CSV-JSON](https://github.com/JMarcos1310/Convertidor-de-Excel-a-CSV-JSON.git)**: Convierte tus archivos Excel en CSV y/o JSON de forma rápida, sencilla y elegante.
-Ideal para análisis, integración o respaldo de datos.
 
 ---
 
