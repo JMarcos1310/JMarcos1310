@@ -56,19 +56,38 @@
 
 ## 💼 Experiencia Profesional
 
+### H. Ayuntamiento Temoaya, Estado de México  
+**Desarrollador Full Stack**  
+2025 - Actualidad  
+
+- He colaborado en el desarrollo de diversos proyectos utilizando tecnologías como Laravel, CSS, SQL y las APIs de Google (Google Geocoding API y Google Maps JavaScript API), logrando implementar soluciones eficientes y de alto impacto.  
+- **Sistema de reporte de luminarias dañadas:** Desarrollo de una aplicación basada en Laravel que integra Google Geocoding API y Google Maps JavaScript API para la geolocalización precisa de luminarias averiadas sobre un mapa interactivo. Esta solución optimiza la gestión de reportes y agiliza la atención y reparación por parte del personal técnico.  
+- **Portal institucional del Ayuntamiento Municipal:** Diseño y desarrollo del sitio web oficial mediante HTML, CSS y JavaScript, con una interfaz moderna, responsiva y accesible, fortaleciendo la comunicación entre el gobierno municipal y la ciudadanía.  
+- Ejecución de pruebas de usabilidad y compatibilidad en diferentes dispositivos.  
+- Diseño de interfaces intuitivas siguiendo principios de usabilidad.
+
+### Like per Second SAS De CV  
+**Desarrollador Backend**  
+2023 - 2024  
+
+- Implementé microaplicaciones con Power Apps, diseñando y desarrollando soluciones que optimizaron la eficiencia operativa y automatizaron procesos críticos, reduciendo significativamente tiempos y uso de recursos.  
+- Desarrollé interfaces de usuario en Illa Cloud, creando diseños intuitivos y funcionales que garantizaron una experiencia fluida para los usuarios finales.  
+- Optimicé bases de datos con Directus, mejorando estructura y funcionalidad mediante normalización y corrección de campos, asegurando precisión y disponibilidad de información estratégica.  
+- Programé e implementé módulos web clave para proyectos de alto impacto, logrando entregas puntuales y productos de alta calidad.
+
 ### Desarrollador Web - Like per Second SAS de CV  
 **Feb 2024 - Presente**  
 
-- Implementé microaplicaciones con Power Apps, mejorando la eficiencia operativa en un 25%.
-- Diseñé y maqueté interfaces alineadas con los estándares de la industria.
-- Gestioné y optimicé bases de datos mediante Directus.
+- Implementé microaplicaciones con Power Apps, mejorando la eficiencia operativa en un 25%.  
+- Diseñé y maqueté interfaces alineadas con los estándares de la industria.  
+- Gestioné y optimicé bases de datos mediante Directus.  
 - Desarrollé módulos personalizados para proyectos clave.
 
 ### Soporte Técnico y Docente - Escuela Primaria Niños Héroes  
 **Jun 2023 - Ene 2024**  
 
-- Mantenimiento preventivo y correctivo de equipos de cómputo.
-- Implementación de mejoras en la infraestructura de red.
+- Mantenimiento preventivo y correctivo de equipos de cómputo.  
+- Implementación de mejoras en la infraestructura de red.  
 - Capacitación de alumnos en conceptos básicos de informática.
 
 ---
@@ -98,12 +117,12 @@
 
 ## 🚀 Proyectos
 
-- **[Gestión de Biblioteca Escolar](https://github.com/JMarcos1310/ProyectoBiblioteca)**: Desarrollé un sistema integral de gestión para bibliotecas, diseñado para optimizar procesos como el manejo de autores, editoriales, estudiantes, libros, materias y préstamos. Este sistema centraliza la información, automatiza tareas clave y mejora la eficiencia en la administración de recursos bibliotecarios..
+- **[Gestión de Biblioteca Escolar](https://github.com/JMarcos1310/ProyectoBiblioteca)**: Desarrollé un sistema integral de gestión para bibliotecas, diseñado para optimizar procesos como el manejo de autores, editoriales, estudiantes, libros, materias y préstamos. Este sistema centraliza la información, automatiza tareas clave y mejora la eficiencia en la administración de recursos bibliotecarios.  
 - **[Aplicación de Control de Restaurante](https://github.com/JMarcos1310/restaurant)**: Este proyecto es un sistema web para la gestión de restaurantes, diseñado para optimizar diferentes aspectos operativos y funcionales del negocio.
 
 ---
 
 ## 🔗 Conectemos
 
-- [LinkedIn](https://linkedin.com/in/juan-marcos-remigio)
+- [LinkedIn](https://linkedin.com/in/juan-marcos-remigio)  
 - [GitHub](https://github.com/JMarcos1310)
